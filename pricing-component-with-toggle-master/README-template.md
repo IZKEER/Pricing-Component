@@ -6,8 +6,6 @@
 ![print](https://user-images.githubusercontent.com/97193948/168887786-f6701fdd-4b43-4c87-9210-97334aaf98ef.png)
 
 
-### Links
-
 ## My process
 
 Hi, I've started by doing the HTML main section for each card showed in the screen
