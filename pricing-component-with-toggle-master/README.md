@@ -16,4 +16,4 @@ Moved into CSS and finally the basic script for the toggle button.
 - CSS
 - Flexbox
 - CSS Grid
--Javascript
+- Javascript
